@@ -1,7 +1,7 @@
 /*
  *AUTHOR: Rishita
  *DATE:21/07/2025
- *EXERCSE NUMBER 
+ *EXERCSE NUMBER 2
  *PURPOSE:Class called AreaCalculator that contains Overloaded methods named area.
  */
 package exercise;
